@@ -14,7 +14,7 @@ export default () => ({
             picture: null,
          },
         {
-            id: new Date().getTime()+2000,
+            id: new Date().getTime()+2000, 
             date: new Date().toDateString(), // sat 23, julio
             text: 'Fugiat consequat consectetur deserunt esse labore proident sit cupidatat nisi commodo eiusmod occaecat occaecat. Aute dolore voluptate ut id reprehenderit cupidatat cillum. Duis nisi magna est fugiat ut eu. Veniam consectetur in nulla officia eiusmod qui ad pariatur culpa eiusmod duis sint Lorem sit. Sunt proident veniam culpa labore sit enim ad ad.',
             picture: null, // https://
